@@ -1,4 +1,3 @@
 Git commad
 do some changes
 second change
-Third change
