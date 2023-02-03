@@ -1,3 +1,5 @@
-1. enter the username init
-2. enter the userpasswordk
-3. enter the keyboard
+one
+two 
+three
+four
+
