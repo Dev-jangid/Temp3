@@ -1,1 +1,4 @@
-Git command
+Git commad
+do some changes
+second change
+third change
